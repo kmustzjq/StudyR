@@ -1,0 +1,9 @@
+1+2
+print('ÄãºÃ£¬ÊÀ½ç');
+zjq<-function(a,b){
+  if(a>b){print(a)}
+  else
+    {print(b)}
+}
+zjq(10,3)
+ls()
